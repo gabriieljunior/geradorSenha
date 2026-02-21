@@ -1,2 +1,2 @@
 # geradorSenha
-  O projeto gera senha com caracteres pre definidos de simples e rapido.
+  O projeto gera senha com caracteres pre definidos de formaa simples e rapida.
